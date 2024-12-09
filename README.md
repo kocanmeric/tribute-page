@@ -1,2 +1,2 @@
-# tribute-page
-freeCodeCamp Project
+# Marcus Aurelius Tribute Page
+This project made for freeCodeCamp Certification.
